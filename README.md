@@ -1,4 +1,4 @@
-# partyGif
+# Party Gif
 
 ## Time to Party!
 You need go installed on your workstation
