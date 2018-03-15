@@ -9,7 +9,7 @@
 ![PARTY_CHARMANDER](images/party_charmander.gif)
 
 ## Time to Party!
-You need go installed on your workstation
+You need [go](https://golang.org/doc/install) installed on your workstation
 
 In terminal, run the command:
 `go get -u github.com/ErinBailey/partygif`
