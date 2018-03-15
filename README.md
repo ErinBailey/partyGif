@@ -16,3 +16,7 @@ In terminal, run the command:
 
 To party up your gifs, run the command:
 `partygif -in [filepath to where you have your business gif] -out [filepath to where you want your party gif]`
+
+Example:
+
+`partygif -in ~/Downloads/charmander.gif -out ~/Downloads/party_charmander.gif`
