@@ -3,10 +3,10 @@
 ## If you love cult of the party parrot as much as I do, then this is the CLI for you! 
 
 ### You go from business gif:
-![QUESTION_BOX](images/question_box.gif)
+![CHARMANDER](images/charmander.gif)
 
 ### To party gif!:
-![PARTY_QUESTION_BOX](images/party_question_box.gif)
+![PARTY_CHARMANDER](images/party_charmander.gif)
 
 ## Time to Party!
 You need go installed on your workstation
