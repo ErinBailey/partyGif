@@ -1,6 +1,6 @@
 # Party Gif
 
-## If you love [cult of the party](http://cultofthepartyparrot.com/) parrot as much as I do, then this is the CLI for you! 
+## If you love [cult of the party parrot] (http://cultofthepartyparrot.com/)  as much as I do, then this is the CLI for you! 
 
 ### You go from business gif:
 ![CHARMANDER](images/charmander.gif)
