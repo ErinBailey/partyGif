@@ -6,11 +6,19 @@ import (
 	"image/color"
 	"image/gif"
 	"os"
+	"strings"
 
 	colorful "github.com/lucasb-eyer/go-colorful"
 )
 
 func readGif(fileIn, fileOut string) *gif.GIF {
+	notGif := !strings.Contains(fileIn, ".gif")
+
+	if notGif {
+		fmt.Println("This is embarrassing...right now I can only convert gifs")
+		return nil
+	}
+
 	originalImage, err := os.Open(fileIn)
 	if err != nil {
 		fmt.Println("Error reading image", err)
