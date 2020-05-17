@@ -39,7 +39,7 @@ func readGif(fileIn, fileOut string) *gif.GIF {
 			if a == 0 {
 				continue
 			}
-			colorfulColor := colorful.MakeColor(partyImage.Image[i].Palette[j])
+			colorfulColor, _ := colorful.MakeColor(partyImage.Image[i].Palette[j])
 			h, c, l := colorfulColor.Hcl()
 			h += float64(i) * frameCount
 			newHueColor := colorful.Hcl(h, c, l)
